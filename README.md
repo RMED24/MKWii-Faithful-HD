@@ -1,5 +1,4 @@
-# MKWii-Faithful-HD
- Mario Kart Wii (Faithful HD Texture Pack)
+#  Mario Kart Wii (Faithful HD Texture Pack)
 
 Supported Game IDs: RMCE01, RMCP01, RMCJ01, RMCK01
 
