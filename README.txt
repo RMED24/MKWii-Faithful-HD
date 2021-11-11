@@ -2,6 +2,10 @@ Mario Kart Wii (Faithful HD Texture Pack)
 
 Supported Game IDs: RMCE01, RMCP01, RMCJ01, RMCK01
 
+Version: 1.0 (4x PNG)
+
+Author: Snowblind
+
 -----------------------------
 
 # CONTENT
@@ -10,20 +14,9 @@ All characters (24), vehicles (36), racing tracks (32) and battle courses (10)
 
 -----------------------------
 
-# HOW TO CONTRIBUTE
-
-Create a pull request, note that the changes have to go through a verification process.
-
-- The texture must be SFW
-- The texture should not have any "watermark" referring the user that makes the change. (We will credit you whenever we do stable releases)
-- The texture must be based of mkwii (no big changes, nor "personal" texture)
-- The texture must be under 4096x4096px (we will decrease the resolution if necessary)
-
------------------------------
-
 # EMULATION REQUIREMENTS
 
-Dolphin 5.0-8598 or later (Fix critical buffer overflow in LoadPNG)
+Dolphin 5.0-4894 or later (support for loading DDS BC7 custom textures)
 DX11 capable GPU
 
 -----------------------------
@@ -60,3 +53,7 @@ Optional: Prefetch Custom Textures - Caches textures in RAM when game is loaded.
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+-----------------------------
+
+Thank you for dowloading! :)
