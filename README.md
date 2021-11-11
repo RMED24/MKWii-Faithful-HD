@@ -4,13 +4,13 @@ Supported Game IDs: RMCE01, RMCP01, RMCJ01, RMCK01
 
 -----------------------------
 
-# CONTENT
+# Content
 
 All characters (24), vehicles (36), racing tracks (32) and battle courses (10)
 
 -----------------------------
 
-# HOW TO CONTRIBUTE
+# How to Contribute
 
 Create a pull request, note that the changes have to go through a verification process.
 
@@ -21,14 +21,14 @@ Create a pull request, note that the changes have to go through a verification p
 
 -----------------------------
 
-# EMULATION REQUIREMENTS
+# Emulation Requirements
 
 Dolphin 5.0-8598 or later (Fix critical buffer overflow in LoadPNG)
 DX11 capable GPU
 
 -----------------------------
 
-# INSTALLATION
+# Instalation
 
 1) Extract this texture pack somewhere.
 
@@ -47,7 +47,7 @@ Optional: Prefetch Custom Textures - Caches textures in RAM when game is loaded.
 
 -----------------------------
 
-# TOOLS USED
+# Tools Used
 
 - Cupscale ESRGAN GUI by n00mkrad
 - FArtDIV3 and Fatality ESRGAN models by DinJerr and Twittman
@@ -56,7 +56,7 @@ Optional: Prefetch Custom Textures - Caches textures in RAM when game is loaded.
 
 -----------------------------
 
-# LICENSE
+# License
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 https://creativecommons.org/licenses/by-nc-sa/4.0/
