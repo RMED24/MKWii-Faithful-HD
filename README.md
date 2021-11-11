@@ -1,17 +1,14 @@
 #  Mario Kart Wii (Faithful HD Texture Pack)
-
 Supported Game IDs: RMCE01, RMCP01, RMCJ01, RMCK01
 
 -----------------------------
 
 # Content
-
 All characters (24), vehicles (36), racing tracks (32) and battle courses (10)
 
 -----------------------------
 
 # How to Contribute
-
 Create a pull request, note that the changes have to go through a verification process.
 
 - The texture must be SFW
@@ -22,14 +19,12 @@ Create a pull request, note that the changes have to go through a verification p
 -----------------------------
 
 # Emulation Requirements
-
 Dolphin 5.0-8598 or later (Fix critical buffer overflow in LoadPNG)
 DX11 capable GPU
 
 -----------------------------
 
 # Instalation
-
 1) Extract this texture pack somewhere.
 
 2) Place the texture pack into Dolphin's "load textures" directory.
@@ -48,20 +43,17 @@ Optional: Prefetch Custom Textures - Caches textures in RAM when game is loaded.
 -----------------------------
 
 # Tools Used
-
-- [Cupscale ESRGAN GUI] (https://github.com/n00mkrad/cupscale) by n00mkrad
-- FArtDIV3 and Fatality [ESRGAN models] (https://upscale.wiki/wiki/Model_Database) by DinJerr and Twittman
-- [GIMP] (https://www.gimp.org/) by Spencer Kimball and Peter Mattis
-- [Custom Texture Tool PS] (https://forums.dolphin-emu.org/Thread-custom-texture-tool-ps-v49-0) by Bighead 
+- [Cupscale ESRGAN GUI](https://github.com/n00mkrad/cupscale) by n00mkrad
+- FArtDIV3 and Fatality [ESRGAN models](https://upscale.wiki/wiki/Model_Database) by DinJerr and Twittman
+- [GIMP](https://www.gimp.org/) by Spencer Kimball and Peter Mattis
+- [Custom Texture Tool PS](https://forums.dolphin-emu.org/Thread-custom-texture-tool-ps-v49-0) by Bighead 
 
 -----------------------------
 
 # Discord Server
-
-[Game Restorers] (https://discord.gg/S2su5b74K9)
+[Game Restorers](https://discord.gg/S2su5b74K9)
 
 -----------------------------
 
 # License
-
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License] (https://creativecommons.org/licenses/by-nc-sa/4.0/)
